@@ -1,0 +1,4 @@
+store 0x10 4 aabbccdd
+load 0x10 4
+store 0x20 2 abcd
+load 0x20 2
